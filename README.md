@@ -9,7 +9,8 @@ Com esse projeto, pude ter uma noção básica sobre:
 - Entity Framework
 - MySQL
 - LINQ
-O projeto foi desenvolvido em ASP.NET 2.1.
+
+Projeto desenvolvido em ASP.NET 2.1.
 
 Screenshots 📷
 
